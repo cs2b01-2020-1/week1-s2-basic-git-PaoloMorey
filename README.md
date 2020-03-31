@@ -1,2 +1,2 @@
-# #CS2B01 - Platform-based Developmen
+# CS2B01 - Platform-based Development
 # Paolo Morey
